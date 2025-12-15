@@ -6,6 +6,8 @@
 
 ## 🛠️ Languages and Tools
 
+<img align="right" width="38%" src="123.jpg"/>
+
 <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" />
@@ -19,13 +21,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luolikong)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
-  <img width="100%" src="picture.jpg" alt="anke" />
-</p>
-
-<p align="center">
   <!-- Visitor Count -->
   <img width="50%" src="https://count.getloli.com/@luolikong?name=luolikong&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Visitor Count" />
 </p>
+
+<p align="center">
+  <img width="100%" src="pciture.jpg" alt="anke" />
+</p>
+
+
 
 <!--
 **1amluolikong/1amluolikong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
