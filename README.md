@@ -16,8 +16,10 @@
 
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luolikong)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">
-  <img width="100%" src="https://s1.doyo.cn/imgfile/bdgame/202404/15/1713149403_3.jpg" alt="anke" />
+  <img width="100%" src="picture.jpg" alt="anke" />
 </p>
 
 <p align="center">
