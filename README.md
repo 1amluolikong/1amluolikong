@@ -19,7 +19,7 @@
 
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luolikong)](https://github.com/anuraghazra/github-readme-stats)
+[![luolikong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iamluolikong)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <!-- Visitor Count -->
