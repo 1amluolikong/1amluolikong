@@ -2,9 +2,10 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20👋%20I'm%20luolikong"/>
 </p>
 
-<h3 align="center">Want to be a 🎈acmer🎈, but not just algorithm</h3>
+<h3 align="center">Want to be an 🎈acmer🎈, but not just algorithm</h3>
+<h3 align="center">Want to be a 🌱developer🌱, but not just game</h3>
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages and Toolschlun
 
 <img align="right" width="38%" src="123.jpg"/>
 
